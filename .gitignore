@@ -1,0 +1,12 @@
+# Local data and notebooks
+data/
+*.csv
+*.json
+*.ipynb_checkpoints/
+
+# Python environments and generated files
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+

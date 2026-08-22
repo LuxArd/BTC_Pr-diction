@@ -1,0 +1,13 @@
+# Package families from the original course notebook.
+# Resolve and record exact versions before a reproducible rerun.
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+yfinance
+xgboost
+lightgbm
+keras
+
